@@ -9,11 +9,15 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunnyrishi&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00&dates=FFFFFF" alt="Rishi's Streak Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=🔥%20GitHub%20Streaks%20🔥&fontSize=24&fontColor=FFFFFF&animation=fadeIn&desc=Current:%206%20days%20•%20Longest:%2010%20days%20(Oct%2020-25,%202025)&descSize=16&descAlignY=75" alt="Custom Streak Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bunnyrishi&theme=github-compact&hide_border=true&area=true" alt="Rishi's Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunnyrishi&theme=algolia&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
 </div>
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
