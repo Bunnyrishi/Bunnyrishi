@@ -9,11 +9,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bunnyrishi&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunnyrishi&theme=algolia&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunnyrishi&theme=algolia&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&v=2" alt="GitHub Streak Stats" />
 </div>
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
