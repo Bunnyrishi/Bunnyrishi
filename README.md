@@ -12,8 +12,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunnyrishi&theme=algolia&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&v=2" alt="GitHub Streak Stats" />
 </div>
 
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
-
 ## :zap: Skills & Technologies
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="60" alt="AWS" />
@@ -30,6 +28,8 @@
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="60" alt="Scripting" />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height="60" alt="DevOps" />
 </p>
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
 ### 🏆 Expertise
 - **Cloud Platforms:** AWS, Microsoft Azure  
