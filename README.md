@@ -65,6 +65,11 @@ Zero-downtime migration of 20+ applications from x86 to ARM64 architecture with 
 **Tech:** Linux, ARM64, Windows Server 2022, Docker, PowerShell  
 ![Server Migration](./assets/server-migration.png)
 
+### [📝 DevOps Technical Blog](https://bunnyrishi.github.io/devops-blog)  
+Comprehensive DevOps blog with 10+ technical articles covering Docker, Kubernetes, AWS, CI/CD, and Infrastructure as Code.  
+**Tech:** HTML, CSS, JavaScript, GitHub Pages  
+**Topics:** DevOps Fundamentals, Containerization, Cloud Computing, Automation
+
 ---
 
 ## 📈 GitHub Stats  
@@ -90,6 +95,7 @@ Zero-downtime migration of 20+ applications from x86 to ARM64 architecture with 
 - **LinkedIn:** [Rishi Kumar Gupta](https://www.linkedin.com/in/devopsrishi)
 - **GitHub:** [Bunnyrishi](https://github.com/Bunnyrishi)
 - **Portfolio:** [bunnyrishi.github.io](https://bunnyrishi.github.io)
+- **Blog:** [DevOps Technical Blog](https://bunnyrishi.github.io/devops-blog)
 - **Email:** [rishigupta1999.rg@gmail.com](mailto:rishigupta1999.rg@gmail.com)
 
 ## 💡 Always Learning, Always Improving!
