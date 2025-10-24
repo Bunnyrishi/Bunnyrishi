@@ -9,6 +9,10 @@
 </p>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bunnyrishi&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727" alt="Rishi's Streak Stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bunnyrishi&theme=github-compact&hide_border=true&area=true" alt="Rishi's Activity Graph" />
 </div>
 
